@@ -1,27 +1,27 @@
 # Introduction
 
-Name - Abdul Haseeb
-Location of Residence - Multan, Pakistan
-Age - 16
-Gender - Male
-Religion - Islam
-Goal - FinOps Engineer
+- Name - Abdul Haseeb <br>
+- Location of Residence - Multan, Pakistan <br>
+- Age - 16 <br>
+- Gender - Male <br>
+- Religion - Islam <br>
+- Goal - FinOps Engineer <br>
 
 ## Ambitions & Goals
 
-8-10k USD/month job, remote, async.
+- 8-10k USD/month job, remote, async.
 
 #### Cars
 
-Denza Z Convertible
+- Denza Z Convertible
 
-BMW i7
+- BMW i7
 
 #### Motorcycles
 
-Suzuki Gixxer SF 250
+- Suzuki Gixxer SF 250
 
-Kawasaki Ninja ZX25R
+- Kawasaki Ninja ZX25R
 
 ## Competence in CS (Self-graded)
 
